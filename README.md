@@ -1,6 +1,6 @@
 # Ashley Ho Assignment -- Position Based Dynamics
 
-## Overall Idea
+## Overall Idea [video](https://youtu.be/E_U1xLSkG7s)|[report](https://drive.google.com/file/d/18NbJz4dfz6lXntA64be2xY_o46kvTDAe/view?usp=share_link)
 
 ### abstract
 
